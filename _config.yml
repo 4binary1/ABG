@@ -14,9 +14,9 @@ sass:
   style: :nested
 
 # Customise atom feed settings (this is where Jekyll-Feed gets configuration information)
-title:		           "YABoGS"
-description:	       "Yet Another Board Game Site"
-author:              ""
+title:		           "Ahead of the Board Game"
+description:	       "The fun of getting into board games"
+author:              "Michele Ottaviano"
 
 # RSS 2.0 can be used instead of Atom by uncommenting following two lines
 #feed:

@@ -1,6 +1,7 @@
 ---
 layout: misc
 title: About
+image: ABG-team.jpeg
 ---
 
 We are Michele and Sofia, two siblings from Italy who fell in love with board games and photography and wanted an excuse to practice writing and shooting pictures all while welcoming new people to the board game hobby.

@@ -4,7 +4,7 @@ title: "Board Game Geek - All you didn't know you needed!"
 author: "4binary1"
 categories: primer
 tags: [primer]
-image: Arboretum.jpeg
+image: Arboretum-cards.jpg
 ---
 Surely it would be great to have a central source of information about the board gamimg hobby, apart from this awesome blog. After all, movies have _IMDB_ and _Rotten Tomatoes_, books have _GoodRead_ and pretty much any form of media has some kind of repository with juicy, useful information. Well, in board games you need to look no further than [_BoardGameGeek_](https://boardgamegeek.com/).
 
@@ -31,6 +31,8 @@ and more. Some of these are self-explanatory but some are related to the way BGG
 ## Cool info
 The average rating is based on a score assigned from users to the game, on a scale of [1 to 10](https://boardgamegeek.com/wiki/page/Ratings&redirectedfrom=rating#). Anyone can score the games so long as they have a registered BGG account. This score is used to rank all of the games in the database into a [single huge list](https://boardgamegeek.com/browse/boardgame) or each on its own category.  
 Now, as with any review-based platform, you should take the scores with a grain of salt as board games tastes are very personal. However, considering how many people usually rank each game, this number is a very good indicator of the popularity of the game albeit not always of its accessibility. At the time of this post, the first game on BGG is Gloomhaven which, although extremely loved by most people who played it, is a quite expensive and heavy game. So when you're deciding which game to buy next, don't rely too much on the score; some of the games I love the most, like _Heul Doch Mau Mau_, are in the 6.5 region.
+
+{% include image.html url="/assets/img/Arboretum.jpeg" description="Arboretum, Dan Cassar" %}
 
 The number of players is another useful piece of information that you will find in the page. Here are reports not only minimum and maximum number of players but also the best value based, as always, on user reports.
 
