@@ -28,6 +28,15 @@
   padding-left: 10px;
   float: left;
 }
+.site-header img {
+  max-width: 50px;
+  display: inline;
+  white-space:nowrap;
+  margin-bottom: 0;
+  margin-top: 0;
+  padding-left: 10px;
+  float: left;
+}
 .menu-list {
   line-height: $header-thickness;
   float: right;

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Welcome to YABoGS!"
+title: "Welcome to ABG!"
 author: "4binary1"
 categories: primer
 tags: [primer]
