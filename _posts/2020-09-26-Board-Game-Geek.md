@@ -6,7 +6,7 @@ categories: primer
 tags: [primer]
 image: Arboretum-cards.jpg
 ---
-Surely it would be great to have a central source of information about the board gamimg hobby, apart from this awesome blog. After all, movies have _IMDB_ and _Rotten Tomatoes_, books have _GoodRead_ and pretty much any form of media has some kind of repository with juicy, useful information. Well, in board games you need to look no further than [_BoardGameGeek_](https://boardgamegeek.com/).
+Surely it would be great to have a central source of information about the board gaming hobby, apart from this awesome blog. After all, movies have _IMDB_ and _Rotten Tomatoes_, books have _GoodRead_ and pretty much any form of media has some kind of repository with juicy, useful information. Well, in board games you need to look no further than [_BoardGameGeek_](https://boardgamegeek.com/).
 
 BGG was founded in 2000 by Scott Alden and Derk Solko and has been recognized during its many years of existence as a resource without peer for board and card gamers, the recognized authority of this online community ([source](https://www.dianajonesaward.org/the-2010-award/)). There's definitely a lot that can be explored about the platform, its branches, spin-offs, events, market, and forum. But what I'd like to focus on today's post is one of the most useful features for somebody approaching the hobby for the first time: the Game Pages.
 
