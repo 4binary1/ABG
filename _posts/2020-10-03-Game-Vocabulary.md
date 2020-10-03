@@ -8,7 +8,7 @@ image: Queendomino-detail.jpg
 ---
 So you decided that you might actually be into board games and you want to know what to look for. As I said in my [previous post]({% post_url 2020-09-23-Welcome-to-ABG %}), the best person who can tell what you'll like to play is _you_. But if you want to embark on the voyage to find your own true taste, first you need to learn how to sail. And even before that you need to know the jargon (I have zero experience in sailing but I know sailors use some very peculiar words).
 
-Once you start reading reviews, visiting BGG (which I introduced [here]({% post_url 2020-09-26-Board-Game-Geek %}), watching videos and listening to podcasts, you'll start coming across many words which most times are given for granted by the speaker. This is actually one of the aspects of the hobby that pushed me to start this blog. I will post a number of entries dedicated to these words and the mechanics or game types they represent. But here I'd like to introduce you to four omnipresent terms that you might hear or read in the context of board games:
+Once you start reading reviews, visiting BGG (which I introduced [here]({% post_url 2020-09-26-Board-Game-Geek %}), watching videos and listening to podcasts, you'll start coming across many words which most times are given for granted by the speaker. This is one of the aspects of the hobby that pushed me to start this blog. I will post a number of entries dedicated to these words and the mechanics or game types they represent. But here I'd like to introduce you to four omnipresent terms that you might hear or read in the context of board games:
 
 - **Abstract** games
 - **Euro** games
@@ -25,7 +25,7 @@ In general, when I read or hear someone defining a game as abstract, I assume th
 ## Euro Games
 The term Euro game is probably the most outdated that I'll be talking about today. Euro games are sometimes (rarely nowadays) called German-style games due to the country where they first were popularized in the 60's. It was in the 90's however, with the publication of _Settlers of Catan_, that this kind of games became popular outside of Europe, awarding the category its name.
 
-Euro game is often used as a catch-all term for games with indirect player interaction, no or few luck elements, and simple themes, loosely coupled with the rules. However, most often games are put under this category when they rely on one of the following mechanics:
+Euro game is often used as a catch-all term for games with indirect player interaction, no or few luck elements, and simple themes, loosely coupled with the rules. However, most games are often put under this category when they rely on one of the following mechanics:
 
 - Tile Placement
 - Auctions
@@ -35,16 +35,16 @@ Euro game is often used as a catch-all term for games with indirect player inter
 - Worker Placement or Role Selection
 
 We'll get into the details of what each of these mean in future articles. For the moment it should suffice you to know that when somebody calls a game a Euro it's often talking about a board game with abstract components (wooden cubes, meeples, card board tokens) and less conflict or thematic setting than an American-style game or a wargame.  
-A classic example of euro game is _Agricola_. In this game, players are farmers that strive to grow crop, improve their homes and raise livestock better than their competitors. Although the theme could be considered dull and unrelated by most players, the available actions resonate better with the theme than, for instance, the movements of kings and queens do in chess.
+A classic example of euro game is _Agricola_. In this game, players are farmers that strive to grow crop, improve their homes and raise livestock better than their competitors. Although the theme could be considered dull and unrelatable by most players, the available actions resonate better with the theme than, for instance, the movements of kings and queens do in chess.
 
-Nowadays games tend to have more interesting themes and highly value aesthetics, which is making the definition of Euro games more and more difficult. Moreover, some definitions actually decouple the theme from the rules, highlighting a [higher dependency on game mechanics](https://boardgamegeek.com/wiki/page/Eurogame)). Other examples of modern Euro games are _Agricola_, _Carcassonne_, _The Voyages of Marco Polo_, and _Modern Art_.
+Nowadays games tend to have more interesting themes and highly value aesthetics, which is making the definition of Euro games more and more difficult. Moreover, some definitions actually decouple the theme from the rules, highlighting a [higher dependency on game mechanics](https://boardgamegeek.com/wiki/page/Eurogame)). Other examples of modern Euro games are _Carcassonne_, _The Voyages of Marco Polo_, and _Modern Art_.
 {% include image.html url="/assets/img/agricola.jpg" description="Agricola, Uwe Rosenberg" %}
 
 If you're into Podcasts, Ludology has a [great GameTek episodes](https://ludology.libsyn.com/gametek-classic-188-eurogames)) covering the origin and evolution of Euro games.
 
 ## American-style games
 If we wanted to make it easy to understand what an Eurogame is, we could just say that it's a board game that it's neither abstract nor an American-style game. Amerigames originated, unsurprisingly, in the USA and feature direct interaction and conflict between the players, high thematic involvement and strong dependency on luck. An alternative term, often used for this kind of games, is _Ameritrash_, which I have personally heard used almost always with a positive connotation.  
-Similarly to Euro games, the definition has grown looser over time and is usually used to contrast the former. Amerigames often features miniature figures (or minis) that might be painted (and that's a whole hobby in itself). I personally have small experience with these types of games apart from classic examples like _Diplomacy_ or _Risk!_, which heavily suffer the test of time and can be replaced with much more valid alternatives. Examples of modern Amerigames are _Battlestar Galactica_, _Civilization_, _Cosmic Encounter_, and _Dune_.
+Similarly to Euro games, the definition has grown looser over time and is usually used to contrast the former. Amerigames often features miniature figures (or minis) that might be painted (and that's a whole hobby in itself). I personally have small experience with these types of games apart from classic examples like _Diplomacy_ or _Risk!_, which, in my opinion, suffer the test of time and can be replaced with much more valid alternatives. Examples of modern Amerigames are _Battlestar Galactica_, _Civilization_, _Cosmic Encounter_, and _Dune_.
 
 As with their counterpart, Ludology also has a great [episode on Ameritrash](https://ludology.libsyn.com/gametek-classic-190-ameritrash)).
 
