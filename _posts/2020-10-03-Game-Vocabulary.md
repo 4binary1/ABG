@@ -6,9 +6,9 @@ categories: primer
 tags: [primer]
 image: Queendomino-detail.jpg
 ---
-So you decided that you might actually be into board games and you want to know what to look for. As I said in my [previous post]({% post_url 2020-09-23-Welcome-to-ABG %}), the best person who can tell what you'll like to play is _you_. But if you want to embark on the voyage to find your own true taste, first you need to learn how to sail. And even before that you need to know the jargon (I have zero experience in sailing but I know sailors use some very peculiar words).
+So you decided that you might actually be into board games and you want to know what to look for. As I said in my [previous post]({{ site.github.url }}{% post_url 2020-09-23-Welcome-to-ABG %}), the best person who can tell what you'll like to play is _you_. But if you want to embark on the voyage to find your own true taste, first you need to learn how to sail. And even before that you need to know the jargon (I have zero experience in sailing but I know sailors use some very peculiar words).
 
-Once you start reading reviews, visiting BGG (which I introduced [here]({% post_url 2020-09-26-Board-Game-Geek %}), watching videos and listening to podcasts, you'll start coming across many words which most times are given for granted by the speaker. This is one of the aspects of the hobby that pushed me to start this blog. I will post a number of entries dedicated to these words and the mechanics or game types they represent. But here I'd like to introduce you to four omnipresent terms that you might hear or read in the context of board games:
+Once you start reading reviews, visiting BGG (which I introduced [here]({{ site.github.url }}{% post_url 2020-09-26-Board-Game-Geek %}), watching videos and listening to podcasts, you'll start coming across many words which most times are given for granted by the speaker. This is one of the aspects of the hobby that pushed me to start this blog. I will post a number of entries dedicated to these words and the mechanics or game types they represent. But here I'd like to introduce you to four omnipresent terms that you might hear or read in the context of board games:
 
 - **Abstract** games
 - **Euro** games
