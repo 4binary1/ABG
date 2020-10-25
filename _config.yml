@@ -4,11 +4,13 @@
 paginate:            5
 
 # Build settings
-markdown:            kramdown
-highlighter:         rouge
-permalink:           none
-plugins:             [jekyll-paginate, jekyll-sitemap, jekyll-feed, jekyll-seo-tag]
-future:              false
+markdown:                   kramdown
+highlighter:                rouge
+permalink:                  none
+plugins:                    [jekyll-paginate, jekyll-sitemap, jekyll-feed, jekyll-seo-tag, jekyll-multiple-languages-plugin]
+future:                     false
+languages:                  ["en", "it"]
+exclude_from_localizations: ["javascript", "images", "css"]
 
 sass:
   sass_dir: assets/css
@@ -17,7 +19,7 @@ sass:
 # Customise atom feed settings (this is where Jekyll-Feed gets configuration information)
 title:		           "Ahead of the Board Game"
 description:	       "The fun of getting into board games"
-author:                "4binary1"
+author:              "4binary1"
 
 # RSS 2.0 can be used instead of Atom by uncommenting following two lines
 #feed:
