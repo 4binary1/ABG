@@ -1,0 +1,12 @@
+pagination:
+  next_page: 'Più Recenti'
+  previous_page: 'Meno Recenti'
+
+primer_link: "Al Manuale"
+review_link: "Alle Recensioni"
+
+sharing_button_prompt: 'Condividi!'
+
+related_posts: 'Potrebbe interessarti anche...'
+
+post_date_prefix: 'Pubblicato il'

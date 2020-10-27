@@ -9,8 +9,11 @@ highlighter:                rouge
 permalink:                  none
 plugins:                    [jekyll-paginate, jekyll-sitemap, jekyll-feed, jekyll-seo-tag, jekyll-multiple-languages-plugin]
 future:                     false
+
+# Language settings
 languages:                  ["en", "it"]
 exclude_from_localizations: ["javascript", "images", "css"]
+default_locale_in_subfolder: true
 
 sass:
   sass_dir: assets/css
