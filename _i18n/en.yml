@@ -1,3 +1,8 @@
+titles:
+  primer: "Primer - All You Need To Know About Board Games"
+  reviews: "Reviews - Insights On The Games We Love"
+  about: "About"
+
 pagination:
   next_page: 'Newer'
   previous_page: 'Older'

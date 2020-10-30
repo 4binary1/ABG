@@ -1,8 +1,13 @@
+titles:
+  primer: "Manuale - Tutto quello che c'è da sapere sui GdT"
+  reviews: "Recensioni - Una finestra sui giochi che amiamo"
+  about: "Chi Siamo?"
+
 pagination:
   next_page: 'Più Recenti'
   previous_page: 'Meno Recenti'
 
-primer_link: "Al Manuale"
+primer_link: "Al Manuale&nbsp&nbsp&nbsp&nbsp&nbsp"
 review_link: "Alle Recensioni"
 
 sharing_button_prompt: 'Condividi!'

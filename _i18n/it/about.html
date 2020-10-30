@@ -1,0 +1,16 @@
+<div class="page-title misc-content">
+  <h1>
+    {% t titles.about %}
+  </h1>
+
+  {% if page.image %}
+  <div class="featured-image">
+    <img src="{{ site.github.url }}/assets/img/ABG-team.jpeg">
+  </div>
+  {% endif %}
+
+  <article>
+    {{ content }}
+  </article>
+
+</div>
