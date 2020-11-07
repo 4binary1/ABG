@@ -6,22 +6,24 @@
         <a href="{{ site.github.url }}/pages/{{ item.file }}" class="menu-link">{{ item.name }}</a>
       {% endfor %}
 
-      {% for item in site.data.settings.social %}
-        <a href="{{ item.link }}" class="menu-link" target="_blank"><i class="fa fa-{{ item.icon }}" aria-hidden="true"></i></a>
-      {% endfor %}
+    <a href="{{ site.github.url }}/"><img src="{{ site.github.url }}/assets/img/uk-flag.png"
+      class="menu-link"></img></a>
+    <a href="{{ site.github.url }}/it"><img src="{{ site.github.url }}/assets/img/italy-flag.png"
+      class="menu-link"></img></a>
     </div>
   </div>
   <h3 class="site-title">
     <a href="{{ site.github.url }}/">{{ site.title }}</a>
+    <a href="{{ site.github.url }}/"><img src="{{ site.github.url }}/assets/img/logo_black.png" class="logo"></a>
   </h3>
   <nav class="menu-list">
     {% for item in site.data.settings.menu %}
       <a href="{{ site.github.url }}/{{ item.folder }}/{{ item.file }}" class="menu-link">{{ item.name }}</a>
     {% endfor %}
 
-    {% for item in site.data.settings.social %}
-      <a href="{{ item.link }}" class="menu-link" target="_blank"><i class="fa fa-{{ item.icon }}" aria-hidden="true"></i></a>
-    {% endfor %}
-	<a href="{{ site.github.url }}/"><img src="{{ site.github.url }}/assets/img/logo_black.png"></a>
+    <a href="{{ site.github.url }}/it"><img src="{{ site.github.url }}/assets/img/italy-flag.png"
+        class="menu-link"></img></a>
+    <a href="{{ site.github.url }}/"><img src="{{ site.github.url }}/assets/img/uk-flag.png"
+        class="menu-link"></img></a>
   </nav>
 </header>
