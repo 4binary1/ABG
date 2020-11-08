@@ -29,12 +29,12 @@
   float: left;
 }
 .logo {
-  max-width: 50px;
+  max-width: 35px;
   display: inline;
   white-space:nowrap;
-  margin-bottom: 0;
-  margin-top: 0;
-  padding-left: 10px;
+  padding-bottom: 10px;
+  padding-top: 6px;
+  padding-right: 10px;
   float: left;
 }
 .menu-list img {
@@ -63,6 +63,9 @@
   .dropdown-content {
     display: none;
   }
+  .dropbtn-icon {
+    display: none;
+  }
 }
 @media (max-width: $container-width) {
   .menu-list {
@@ -72,7 +75,7 @@
     padding-right: 0.25rem;
 	padding-left: 3rem;
   }
-  .dropbtn {
+  .dropbtn-icon {
       background-color: white;
       color: black;
       padding: 16px;
@@ -80,6 +83,10 @@
       font-size: 16px;
       border: none;
       cursor: pointer;
+      display: inline-block;
+  }
+  .dropbtn{
+    display: none;
   }
   .dropdown {
       position: fixed;
@@ -107,10 +114,10 @@
   .dropdown-content a:hover {
     background-color: #f1f1f1
   }
-  .dropdown:hover .dropdown-content {
+  .dropbtn:checked ~ .dropdown-content {
       display: block;
   }
-  .dropdown:hover .dropbtn {
+  .dropbtn:checked ~ .dropbtn-icon {
       background-color: #f1f1f1;
   }
 }

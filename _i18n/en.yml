@@ -1,3 +1,9 @@
+
+menu:
+- {name: 'Primer', folder: 'pages', file: 'primer.html'}
+- {name: 'Reviews', folder: 'pages', file: 'reviews.html'}
+- {name: 'About', folder: 'pages', file: 'about.html'}
+
 titles:
   primer: "Primer - All You Need To Know About Board Games"
   reviews: "Reviews - Insights On The Games We Love"
@@ -7,7 +13,7 @@ pagination:
   next_page: 'Newer'
   previous_page: 'Older'
 
-primer_link: "To the Primer &nbsp"
+primer_link: "To the Primer"
 review_link: "To the Reviews"
 
 sharing_button_prompt: 'Feel free to share!'
