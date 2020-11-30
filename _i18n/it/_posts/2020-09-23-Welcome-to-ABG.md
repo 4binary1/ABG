@@ -6,34 +6,33 @@ categories: primer
 tags: [primer]
 image: ABG-team.jpeg
 ---
-So you've been to a friend's house party and you had a blast playing a game where everyone was laughing and cheering. Or maybe it was a rainy day and you decided to dust off your copy of an old game you hadn't play since your childhood and ended up having the best time with the whole family. It could even be that a person you just met showed you a surprising card game that you didn't know existed and you ended up playing for the whole afternoon while getting to know each other.
+Lasciatemi indovinare, siete stati ad una festa a casa di amici e tutti ridevano ed urlavano mentre giocavate. Oppure avete spolverato un gioco che non toccavate dalla vostra infanzia durante una giornata uggiosa e avete finito per divertirvi con tutta la famiglia. Potrebbe anche essere che una persona appena conosciuta vi abbia mostrato un sorprendente gioco di carte di cui ignoravate l'esistenza e abbiate finito per conoscervi giocando tutto il pomeriggio.
 
-Whatever it was, something probably happened that made you wonder one of the following:
+Quale che sia lo scenario, qualcosa è successo ed ora vi domandate una delle seguenti:
 
-- What is a board game?
-- What are board games up to nowadays?
-- Is there something else like what I just played?
+- Costa è un gioco da tavolo?
+- Che giochi da tavolo esistono oggi?
+- C'è qualcosa di simile a ciò che ho appena giocato?
 
-If that's the case you might be discovering an interest in boardgames and you probably want some answers.
+Se così fosse, è probabile che stiate scoprendo una nuova passione e vorrete delle risposte.
 
-## What is a board game?
+## Cosa è un gioco da tavolo?
 
-"Tabletop games are games that are normally played on a table or other flat surface, such as board games, card games, dice games, miniature wargames or tile-based games." ([Source](https://en.wikipedia.org/wiki/Tabletop_game))
+"Un gioco da tavolo è un gioco che richiede una ben definita superficie di gioco, che viene detta di solito "tabellone" o "plancia";[...] sulla superficie vengono solitamente piazzati e/o spostati i "pezzi"." ([Fonte](https://it.wikipedia.org/wiki/Gioco_da_tavolo))
 
-Now that sounds generic...and in fairness, it is! I tend to use the term board game instead of tabletop game and you will find that a lot of other people do too. Moreover, I would categorize as board games even games that don't require being played on a table or don't have a game board (e.g. a lot of party games).
-
-To me, a board game is an experience with defined rules, a limited duration (at times a very long one) and that usually comes in a box. But you probably already knew that, didn't you?
+"Una definizione generica," penserete...ed in effetti, lo è! Personalmente, tendo a classificare come giochi da tavolo anche quelli che non richiedono l'uso di una superficie o che non abbiano un tabellone (ad esempio molti party game).
 
 {% include image.html url="/assets/img/ttr.jpg" description="Ticket To Ride Europe, Alan R. Moon" %}
 
-## What are board games up to nowadays?
+## Che giochi da tavolo esistono oggi?
 
-You probably played some board game at some point or another in your life. Monopoly, Clue, Risiko, Guess Who...they all count. Even your regional card game could be considered a tabletop game.  
-Today, however, board gaming is aN interestingly vast hobby with over 4000 new games being released every year (see for instance [games published in 2019](https://boardgamegeek.com/search/boardgame/page/1?advsearch=1&q=&include%5Bdesignerid%5D=&include%5Bpublisherid%5D=&geekitemname=&range%5Byearpublished%5D%5Bmin%5D=2019&range%5Byearpublished%5D%5Bmax%5D=2019&range%5Bminage%5D%5Bmax%5D=&range%5Bnumvoters%5D%5Bmin%5D=&range%5Bnumweights%5D%5Bmin%5D=&range%5Bminplayers%5D%5Bmax%5D=&range%5Bmaxplayers%5D%5Bmin%5D=&range%5Bleastplaytime%5D%5Bmin%5D=&range%5Bplaytime%5D%5Bmax%5D=&floatrange%5Bavgrating%5D%5Bmin%5D=&floatrange%5Bavgrating%5D%5Bmax%5D=&floatrange%5Bavgweight%5D%5Bmin%5D=&floatrange%5Bavgweight%5D%5Bmax%5D=&colfiltertype=&searchuser=&nosubtypes%5B0%5D=boardgameexpansion&playerrangetype=normal&B1=Submit)). This might seem a lot to get into for a new hobby but don't worry, there are some good resources out there to help you start looking around (who knows, maybe this blog is one).
+Avrete probabilmente già giocato ad un gioco da tavolo nella vostra vita. Monopoli, Cluedo, Risiko, Indovina Chi...contano tutti come tali. Anche i giochi di carte regionali come la Briscola o il Burraco possono essere considerati giochi da tavolo. 
 
-## Is there something else like what I just played?
+Oggi tuttavia, questo è un hobby sorprendentemente vasto, con oltre 4000 nuovi giochi pubblicati ogni anno (vedase, ad esempio, la lista di [giochi pubblicati nel 2019](https://boardgamegeek.com/search/boardgame/page/1?advsearch=1&q=&include%5Bdesignerid%5D=&include%5Bpublisherid%5D=&geekitemname=&range%5Byearpublished%5D%5Bmin%5D=2019&range%5Byearpublished%5D%5Bmax%5D=2019&range%5Bminage%5D%5Bmax%5D=&range%5Bnumvoters%5D%5Bmin%5D=&range%5Bnumweights%5D%5Bmin%5D=&range%5Bminplayers%5D%5Bmax%5D=&range%5Bmaxplayers%5D%5Bmin%5D=&range%5Bleastplaytime%5D%5Bmin%5D=&range%5Bplaytime%5D%5Bmax%5D=&floatrange%5Bavgrating%5D%5Bmin%5D=&floatrange%5Bavgrating%5D%5Bmax%5D=&floatrange%5Bavgweight%5D%5Bmin%5D=&floatrange%5Bavgweight%5D%5Bmax%5D=&colfiltertype=&searchuser=&nosubtypes%5B0%5D=boardgameexpansion&playerrangetype=normal&B1=Submit)). Questa cifra può sembrare molto alta per chi volesse addentrarsi in questo mondo ma non temete, ci sono ottime risorse lì fuori che vi aiuteranno ad orientarvi (chissà, magari questo blog è una di esse).
 
-Let's say you just played Carcassonne or Catan for the first time and you found it interesting. Now you would like to try something similar but with a little more pizazz. You open an online store, you type the name of the game you just played and start looking for related products...and you immediately get overwhelmed by a million games with different themes, art, rules, reviews, ratings. Perhaps you even start buying some (I know I did).  
-But wait, do you even know what you want from your games? Experience will definitely shape your tastes but why not going into it with somewhat of an idea already?
+## C'è qualcosa di simile a ciò che ho appena giocato?
 
-This is what this blog would like to be: an unqualified primer to the marvelous world of board games. It's what I would've liked to have had when first going into the hobby. Here I will post about game vocabulary, game types, resources, and everything you need to find out what _you_ really like.
+Supponiamo che abbiate appena giocato Carcassonne o I Coloni di Catan per la prima volta e li abbiate trovati interessanti. Ora vorreste trovare qualcosa di simile ma con più carattere. Aprite un e-shop, digitate il nome del gioco che avete appena provato, iniziate a guardare i prodotti correlati....e venite sommersi da milioni di giochi con diverso tema, estetica, regole, recensioni, valutazioni. Magari iniziate anche a comprarne qualcuno (so di averlo fatto io stesso).  
+Ma sapete già cosa volete dai vostri giochi? L'esperienza ed il tempo aiuteranno a formare un vostro gusto ma perché non partire con un'idea? 
+
+Questo è ciò che vorrei che questo blog rappresentasse: un manuale (non qualificato) per il meraviglioso mondo dei giochi da tavolo. È ciò che avrei voluto avere a disposizione quando mi sono addentrato in questo hobby. Qui troverete post sul lessico usato più spesso, i tipi di giochi e di risorse, e tutto ciò di cui avete bisogno per scoprire quello che piace veramente a *voi*.
