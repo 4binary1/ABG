@@ -4,4 +4,4 @@ Michele si è ritrovato nel mondo adulto con un lavoro da sviluppatore software 
 
 Sofia è stata attratta dal mondo ludico principalmente per la componente estetica. Essendo una persona creativa viene spesso catturata dalla trama che muove il gioco e dall'uso intelligente di risorse e materiali. Per questo motivo ama fotografare i piccoli dettagli che rendono ogni gioco accattivante e raccontano una storia.
 
-Per più informazioni sul perché abbiamo creato questo blog, visitate il nostro [primo post]({{ site.github.url }}/{{ site.lang }}{% post_url 2020-09-23-Welcome-to-ABG %}).
+Per più informazioni sul perché abbiamo creato questo blog, visitate il nostro [primo post](/ABG/{{ site.lang }}{% post_url 2020-09-23-Welcome-to-ABG %}).

@@ -6,7 +6,7 @@ categories: review
 tags: [review]
 image: point-salad-detail.jpeg
 ---
-Quale che sia la stagione, mangiare le verdure è sempre importante. Una bella insalata, ad esempio, con lattuga, pomodori e carote. Il problema è che l'insalata non mi piace! Ma fortunatamente, adoro l' [_Insalata di Punti_]([https://boardgamegeek.com/boardgame/274960/point-salad](https://boardgamegeek.com/boardgame/274960/point-salad))!
+Quale che sia la stagione, mangiare le verdure è sempre importante. Una bella insalata, ad esempio, con lattuga, pomodori e carote. Il problema è che l'insalata non mi piace! Ma fortunatamente, adoro l' [_Insalata di Punti_](https://boardgamegeek.com/boardgame/274960/point-salad)!
 
 _Insalata di Punti_ è un gioco di carte da 2 a 6 giocatori tutto incentrato sui punti, sviluppato da Molly Johnson, Robert Melvin e Shawn Stankewich. Il nome proviene da un'espressione popolare nel mondo dei giochi da tavolo, utilizzata per indicare giochi dove qualsiasi azione faccia accumulare punti. Il termine è tipicamente usato in tono derogatorio ma _Insalata di Punti_ prende questo concetto e lo capovolge, rendendolo la colonna portante del gioco.
 
