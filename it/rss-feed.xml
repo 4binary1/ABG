@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:dc="http://purl.org/dc/elements/1.1/">
+	<channel>
+		<title>Ahead of the Board Game</title>
+		<description>The fun of getting into board games</description>
+		<link>/ABG</link>
+		<atom:link href="/ABG/rss-feed.xml" rel="self" type="application/rss+xml" />
+		
+			<item>
+				<title>Insalata di Punti - Devi mangiare le verdure!</title>
+				
+					<dc:creator>4binary1</dc:creator>
+				
+				
+					<description>&lt;p&gt;Quale che sia la stagione, mangiare le verdure è sempre importante. Una bella insalata, ad esempio, con lattuga, pomodori e carote. Il problema è che l’insalata non mi piace! Ma fortunatamente, adoro l’ &lt;a href=&quot;https://boardgamegeek.com/boardgame/274960/point-salad&quot;&gt;&lt;em&gt;Insalata di Punti&lt;/em&gt;&lt;/a&gt;!&lt;/p&gt;
+
+</description>
+				
+				<pubDate>Sun, 18 Oct 2020 00:00:00 +0200</pubDate>
+				<link>/review/Point-Salad.html</link>
+				<guid isPermaLink="true">/review/Point-Salad.html</guid>
+			</item>
+		
+			<item>
+				<title>Vocabolario di Gioco - I primi passi!</title>
+				
+					<dc:creator>4binary1</dc:creator>
+				
+				
+					<description>&lt;p&gt;Così avete capito che vi piacciono i giochi da tavolo e volete sapere dove cercare. Come ho detto in un &lt;a href=&quot;/ABG/it/primer/Welcome-to-ABG.html&quot;&gt;post precedente&lt;/a&gt;, le persone che meglio possono suggerirvi qualcosa che vi piaccia siete voi stessi. Ma se volete imbarcarvi in questo viaggio alla scoperta dei vostri gusti, prima dovete imparare a navigare. Ed ancora prima di levare le ancore, dovete imparare i termini appropriati (non ho esperienza di navigazione ma so che i termini nautici sono molti e molto specifici).&lt;/p&gt;
+
+</description>
+				
+				<pubDate>Sat, 03 Oct 2020 00:00:00 +0200</pubDate>
+				<link>/primer/Game-Vocabulary.html</link>
+				<guid isPermaLink="true">/primer/Game-Vocabulary.html</guid>
+			</item>
+		
+			<item>
+				<title>Board Game Geek - Tutto ciò di cui non sapevo aver bisogno!</title>
+				
+					<dc:creator>4binary1</dc:creator>
+				
+				
+					<description>&lt;p&gt;Sarebbe bello avere una fonte centrale di informazioni sullo hobby dei giochi da tavolo (oltre a questo blog, si intende). Dopotutto, per i film esistono &lt;em&gt;IMDB&lt;/em&gt; e &lt;em&gt;Rotten Tomatoes&lt;/em&gt;, per i libri esiste &lt;em&gt;GoodRead&lt;/em&gt; e qualsiasi altro media ha una qualche forma di deposito di informazioni. Ebbene, nel mondo dei giochi analogici esiste &lt;a href=&quot;https://boardgamegeek.com/&quot;&gt;&lt;em&gt;BoardGameGeek&lt;/em&gt;&lt;/a&gt;.&lt;/p&gt;
+
+</description>
+				
+				<pubDate>Sat, 26 Sep 2020 00:00:00 +0200</pubDate>
+				<link>/primer/Board-Game-Geek.html</link>
+				<guid isPermaLink="true">/primer/Board-Game-Geek.html</guid>
+			</item>
+		
+			<item>
+				<title>Benvenuti su ABG!</title>
+				
+					<dc:creator>4binary1</dc:creator>
+				
+				
+					<description>&lt;p&gt;Lasciatemi indovinare, siete stati ad una festa a casa di amici e tutti ridevano ed urlavano mentre giocavate. Oppure avete spolverato un gioco che non toccavate dalla vostra infanzia durante una giornata uggiosa e avete finito per divertirvi con tutta la famiglia. Potrebbe anche essere che una persona appena conosciuta vi abbia mostrato un sorprendente gioco di carte di cui ignoravate l’esistenza e abbiate finito per approfondire la conoscenza giocando tutto il pomeriggio.&lt;/p&gt;
+
+</description>
+				
+				<pubDate>Wed, 23 Sep 2020 00:00:00 +0200</pubDate>
+				<link>/primer/Welcome-to-ABG.html</link>
+				<guid isPermaLink="true">/primer/Welcome-to-ABG.html</guid>
+			</item>
+		
+	</channel>
+</rss>
