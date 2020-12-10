@@ -12,10 +12,14 @@ _Insalata di Punti_ è un gioco di carte da 2 a 6 giocatori tutto incentrato sui
 
 La scatola contiene 108 carte uniche ed il regolamento. Ogni carta rappresenta una tra 6 possibili verdure da un lato ed una regola unica dall'altro. I giocatori svolgono una serie di turni nei quali prendono carte per usarle come verdure o per la regola sul retro che li porterà a fare punti alla fine della partita. Questo è l'intero gioco, semplice no?
 
+{% include image.html url="/assets/img/point-salad.jpeg" description="Pronti per giocare" %}
+
 "Ok, ma dove sta il divertimento?", vi starete chiedendo. Ecco, prima di questo gioco non sapevo del piacere che si possa provare nel rubare una cipolla. Guardare le lacrime scorrere dagli occhi della vittima come se ne avessero appena tagliata una. Il punto in _Insalata di Punti_ non è solo quello di espandere la propria collezione per fare punti ma è, soprattutto, prevenire che gli altri giocatori possano fare lo stesso.
 Come in molti giochi di *drafting*, bloccare l'accesso a carte utili agli avversari è una parte fondamentale della strategia. Il bello è che questa pratica, anche chiamata *hate drafting*, garantisce quasi sempre che si facciano anche punti.
 
 Dal punto di vista dei materiali, la qualità delle carte è buona e la scatola è compatta e facilmente trasportabile. Lo stile estetico è adorabile e, nella sua semplicità, il gioco fa la sua figura sul tavolo, grazie ai suoi colori vibranti e lo stile snello.
+
+{% include image.html url="/assets/img/point-salad-table.jpg" description="Questo gioco risula accattivante su qualsiasi tavola" %}
 
 L'iconografia per le regole sul retro delle carte è molto semplice e si comprende facilmente, sebbene alcune regole usino del testo, il che rende il gioco dipendente dalla lingua.
 Ciò è però facilmente risolvibile spiegando le regole man mano che vengono scoperte, il che renderà chiare anche le regole simili che si incontreranno in futuro relativamente ad una verdura diversa. Ho giocato la mia versione italiana anche con amici stranieri e non abbiamo incontrato nessun intoppo. 

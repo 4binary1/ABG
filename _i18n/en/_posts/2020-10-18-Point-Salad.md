@@ -12,7 +12,7 @@ _Point Salad_ is a 2 to 6 player card game all about points by Molly Johnson, Ro
 
 The box comes with a deck of 108 unique cards and a rulebook. Each card represents one of six vegetables on one side and a unique scoring rule on the other. Players take turn picking cards to use them either as vegetables or for their scoring conditions. That's it, it's as simple as that.
 
-{% include image.html url="/assets/img/point-salad.jpeg" description="Game setup for _Point Salad_" %}
+{% include image.html url="/assets/img/point-salad.jpeg" description="Game setup for Point Salad" %}
 
 "But where does the fun come from?", you might be asking. Well before I played this game I didn't know stealing an onion from other people could be so entertaining. The tears on their eyes as if you just sliced it in front of their faces. See, _Point Salad_ is not just about building your collection of vegetables and scoring cards, it's especially about preventing other players from doing the same. As in many drafting games, blocking opponents from accessing good cards is an integral part of the strategy and the great thing about this game is that _hate drafting_, as this practice is often called, almost always scores you point as well.
 
