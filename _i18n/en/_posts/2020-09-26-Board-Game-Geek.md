@@ -6,31 +6,31 @@ categories: primer
 tags: [primer]
 image: Arboretum-cards.jpg
 ---
-Surely it would be great to have a central source of information about the board gaming hobby, apart from this awesome blog. After all, movies have _IMDB_ and _Rotten Tomatoes_, books have _GoodRead_ and pretty much any form of media has some kind of repository with juicy, useful information. Well, in board games you need to look no further than [_BoardGameGeek_](https://boardgamegeek.com/).
+Surely it would be great to have a central source of information about the board gaming hobby, apart from this awesome blog. After all, movies have _IMDB_ and _Rotten Tomatoes_, books have _GoodRead_ and pretty much any form of media has some kind of repository with juicy, useful information. Well, in board games you need to look no further than [_Board Game Geek_](https://boardgamegeek.com/).
 
-BGG was founded in 2000 by Scott Alden and Derk Solko and has been recognized during its many years of existence as a resource without peer for board and card gamers, the recognized authority of this online community ([source](https://www.dianajonesaward.org/the-2010-award/)). There's definitely a lot that can be explored about the platform, its branches, spin-offs, events, market, and forum. But what I'd like to focus on today's post is one of the most useful features for somebody approaching the hobby for the first time: the Game Pages.
+BGG was founded in 2000 by Scott Alden and Derk Solko and has been recognized during its many years of existence as "a resource without peer for board and card gamers, the recognized authority of this online community" ([source](https://www.dianajonesaward.org/the-2010-award/)). There's definitely a lot that can be explored about the platform, its branches, spin-offs, events, market, and forum. But what I'd like to focus on today's post is one of the most useful features for somebody approaching the hobby for the first time: the _game pages_.
 
 ## Game pages
-In order to look at the details contained in such useful pages I will be using [Arboretum](https://boardgamegeek.com/boardgame/140934/arboretum), one of my favourite light games, as a reference.
+In order to look at the details contained in such useful pages I will be using [_Arboretum_](https://boardgamegeek.com/boardgame/140934/arboretum), one of my favourite light games, as a reference.
 The part that I usually peruse the most is also the first thing you're going to notice about the game page: the banner. This packs a lot of useful information and makes them available at a glance. Here you'll find things like:
 
-- _Cover art_
-- _Average rating_
-- _Name of the game_
-- _Year of release_
-- _Number of players_
-- _Estimated play time_
-- _Age reccomendation_
-- _Weight_
-- _Designers_
-- _Artists_
-- _Publishers_
+- Cover art
+- Average rating
+- Name of the game
+- Year of release
+- Number of players
+- Estimated play time
+- Age reccomendation
+- Weight
+- Designers
+- Artists
+- Publishers
 
-and more. Some of these are self-explanatory but some are related to the way BGG works and represent perfectly why the site is such a good tool for the hobby.
+and more. Some of these are self-explanatory but some are related to the way BGG works and perfectly represent why the site is such a good tool for the hobby.
 
 ## Cool info
 The average rating is based on a score assigned from users to the game, on a scale of [1 to 10](https://boardgamegeek.com/wiki/page/Ratings&redirectedfrom=rating#). Anyone can score the games so long as they have a registered BGG account. This score is used to rank all of the games in the database into a [single huge list](https://boardgamegeek.com/browse/boardgame) or each in its own category.  
-Now, as with any review-based platform, you should take the scores with a grain of salt as board games tastes are very personal. However, considering how many people usually rank each game, this number is a very good indicator of the popularity of the game albeit not always of its accessibility. At the time of this post, the first game on BGG is Gloomhaven which, although extremely loved by most people who played it, is a quite expensive and heavy game. So when you're deciding which game to buy next, don't rely too much on the score; some of the games I love the most, like _Heul Doch Mau Mau_, are in the 6.5 region.
+Now, as with any review-based platform, you should take the scores with a grain of salt as board games tastes are very personal. However, considering how many people usually rank each game, this number is a very good indicator of popularity albeit not always of accessibility. At the time of this post, the first game on BGG is _Gloomhaven_ which, although extremely loved by most people who played it, is a quite expensive and heavy game. So when you're deciding which game to buy next, don't rely too much on the score: some of the games I love the most, like _Heul Doch Mau Mau_, are in the 6.5 region.
 
 {% include image.html url="/assets/img/Arboretum.jpeg" description="Arboretum, Dan Cassar" %}
 

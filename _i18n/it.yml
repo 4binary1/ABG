@@ -1,0 +1,23 @@
+
+menu:
+- {name: 'Manuale', folder: 'pages', file: 'primer.html'}
+- {name: 'Recensioni', folder: 'pages', file: 'reviews.html'}
+- {name: 'Chi Siamo?', folder: 'pages', file: 'about.html'}
+
+titles:
+  primer: "Manuale - Tutto quello che c'è da sapere sui GdT"
+  reviews: "Recensioni - Una finestra sui giochi che amiamo"
+  about: "Chi Siamo?"
+
+pagination:
+  next_page: 'Più Recenti'
+  previous_page: 'Meno Recenti'
+
+primer_link: "Al Manuale"
+review_link: "Alle Recensioni"
+
+sharing_button_prompt: 'Condividi questo articolo!'
+
+related_posts: 'Potrebbe interessarti anche...'
+
+post_date_prefix: 'Pubblicato il'

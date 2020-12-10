@@ -1,0 +1,16 @@
+<div class="page-title misc-content">
+  <h1>
+    {% t titles.about %}
+  </h1>
+
+  {% if page.image %}
+  <div class="featured-image">
+    <img style="max-height: 200px;" src="/ABG/assets/img/logo_circle.png">
+  </div>
+  {% endif %}
+
+  <article>
+    {{ content }}
+  </article>
+
+</div>

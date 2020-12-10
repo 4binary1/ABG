@@ -1,0 +1,17 @@
+<div class="page-title">
+    <h1>
+        {% t titles.reviews %}
+    </h1>
+</div>
+
+<article>
+    {% for post in site.categories.review %}
+    <a href="/ABG/{{ site.lang }}{{ post.url }}">
+        <div class="featured-posts"
+            {% if post.image %}style="background-image:url(/ABG/assets/img/{{ post.image }})"
+            {% endif %}>
+            <h2><span>{{ post.title }}</span></h2>
+        </div>
+    </a>
+    {% endfor %}
+</article>

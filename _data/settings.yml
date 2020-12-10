@@ -6,14 +6,6 @@ disqus:
 # If you are not using Google Analytics, please change 'google-ID' to an empty string
 google-ID: ''
 
-menu:
-- {name: 'Primer', folder: 'pages', file: 'primer.html'}
-# - {name: 'Learning Resources', folder: 'pages', file: 'resources.html'}
-- {name: 'Reviews', folder: 'pages', file: 'reviews.html'}
-# - {name: 'Documentation', folder: 'pages', file: 'documentation.html'}
-- {name: 'About', folder: 'pages', file: 'about.html'}
-# - {name: 'Contact', folder: 'pages', file: 'contact.html'}
-
 # Available social icons are powered by Font Awesome, so you can use any icon that they offer
 social:
 # - {icon: 'twitter', link: ''}
@@ -22,13 +14,3 @@ social:
 # - {icon: 'envelope', link: 'mailto:'}
 # - {icon: 'rss-square', link: 'rss-feed.xml'}
 
-# Customize site text
-pagination:
-  next_page: 'Newer'
-  previous_page: 'Older'
-
-sharing_button_prompt: 'Feel free to share!'
-
-related_posts: 'You may also enjoy...'
-
-post_date_prefix: 'Published on'
