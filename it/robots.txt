@@ -1,1 +1,1 @@
-Sitemap: http://localhost:4000/ABG/it/sitemap.xml
+Sitemap: https://4binary1.github.io/ABG/it/sitemap.xml

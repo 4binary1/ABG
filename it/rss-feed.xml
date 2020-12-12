@@ -7,7 +7,22 @@
 		<atom:link href="/ABG/rss-feed.xml" rel="self" type="application/rss+xml" />
 		
 			<item>
-				<title>Insalata di Punti - Devi mangiare le verdure!</title>
+				<title>Party Games: l'unione fa la forza!</title>
+				
+					<dc:creator>4binary1</dc:creator>
+				
+				
+					<description>&lt;p&gt;Party: nel 2020 non ce ne sono stati tanti. Nel momento in cui scrivo questo post, party rappresenta un termine quasi obsoleto che indica perlopiù l’atto di osservare la testa di gente più o meno familiare attraverso uno schermo. Ma le feste ed i momenti conviviali erano, sono e saranno sempre molto importanti. Per questo non dovrebbe sorprendere che una categoria di giochi da tavolo di estremo successo è quella dei &lt;em&gt;Party Game.&lt;/em&gt;&lt;/p&gt;
+
+</description>
+				
+				<pubDate>Sat, 12 Dec 2020 00:00:00 +0100</pubDate>
+				<link>/primer/Party-Games.html</link>
+				<guid isPermaLink="true">/primer/Party-Games.html</guid>
+			</item>
+		
+			<item>
+				<title>Insalata di Punti: devi mangiare le verdure!</title>
 				
 					<dc:creator>4binary1</dc:creator>
 				
@@ -22,7 +37,7 @@
 			</item>
 		
 			<item>
-				<title>Vocabolario di Gioco - I primi passi!</title>
+				<title>Vocabolario di Gioco: i primi passi!</title>
 				
 					<dc:creator>4binary1</dc:creator>
 				
@@ -37,7 +52,7 @@
 			</item>
 		
 			<item>
-				<title>Board Game Geek - Tutto ciò di cui non sapevo aver bisogno!</title>
+				<title>Board Game Geek: tutto ciò di cui non sapevi avere bisogno!</title>
 				
 					<dc:creator>4binary1</dc:creator>
 				

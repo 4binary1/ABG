@@ -7,7 +7,22 @@
 		<atom:link href="/ABG/rss-feed.xml" rel="self" type="application/rss+xml" />
 		
 			<item>
-				<title>Point Salad - You gotta eat your greens</title>
+				<title>Party Games: strength in numbers!</title>
+				
+					<dc:creator>4binary1</dc:creator>
+				
+				
+					<description>&lt;p&gt;Parties: 2020 hasn’t seen a lot of those. At the time I’m writing this post party is an almost obsolete word that mostly applies to looking at people’s heads through a screen. But social gatherings were, are and will be extremely important. So it shouldn’t come as a surprise that a very successful category of the board gaming hobby is represented by &lt;em&gt;Party Games&lt;/em&gt;.&lt;/p&gt;
+
+</description>
+				
+				<pubDate>Sat, 12 Dec 2020 00:00:00 +0100</pubDate>
+				<link>/primer/Party-Games.html</link>
+				<guid isPermaLink="true">/primer/Party-Games.html</guid>
+			</item>
+		
+			<item>
+				<title>Point Salad: you gotta eat your greens!</title>
 				
 					<dc:creator>4binary1</dc:creator>
 				
@@ -22,7 +37,7 @@
 			</item>
 		
 			<item>
-				<title>Game Vocabulary - The first steps!</title>
+				<title>Game Vocabulary: the first steps!</title>
 				
 					<dc:creator>4binary1</dc:creator>
 				
@@ -37,7 +52,7 @@
 			</item>
 		
 			<item>
-				<title>Board Game Geek - All you didn't know you needed!</title>
+				<title>Board Game Geek: all you didn't know you needed!</title>
 				
 					<dc:creator>4binary1</dc:creator>
 				
