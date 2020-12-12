@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Insalata di Punti - Devi mangiare le verdure!"
+title: "Insalata di Punti: devi mangiare le verdure!"
 author: "4binary1"
 categories: review
 tags: [review]
