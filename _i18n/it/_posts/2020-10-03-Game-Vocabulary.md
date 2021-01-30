@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Vocabolario di Gioco - I primi passi!"
+title: "Vocabolario di Gioco: i primi passi!"
 author: "4binary1"
 categories: primer
 tags: [primer]

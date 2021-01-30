@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Game Vocabulary - The first steps!"
+title: "Game Vocabulary: the first steps!"
 author: "4binary1"
 categories: primer
 tags: [primer]

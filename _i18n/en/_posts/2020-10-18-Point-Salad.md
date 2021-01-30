@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Point Salad - You gotta eat your greens"
+title: "Point Salad: you gotta eat your greens!"
 author: "4binary1"
 categories: review
 tags: [review]

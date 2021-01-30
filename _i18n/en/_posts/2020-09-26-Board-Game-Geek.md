@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Board Game Geek - All you didn't know you needed!"
+title: "Board Game Geek: all you didn't know you needed!"
 author: "4binary1"
 categories: primer
 tags: [primer]
