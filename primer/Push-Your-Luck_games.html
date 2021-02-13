@@ -1,0 +1,262 @@
+<!doctype html>
+<html>
+
+<head>
+
+  <title>
+    
+      Push-Your-Luck Games: learning when to stop! | Ahead of the Board Game
+    
+  </title>
+  <link rel="icon" type="image/png" href="/ABG/assets/img/logo_black.png" sizes="16x16">
+
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <meta charset="utf-8">
+
+  <link rel="stylesheet" href="/ABG/assets/css/main.css">
+  <link rel="stylesheet" href="/ABG/assets/css/syntax.css">
+  <!-- Use Atom -->
+  <link type="application/atom+xml" rel="alternate" href="https://4binary1.github.io/ABG/feed.xml" title="Ahead of the Board Game" />
+  <!-- RSS-v2.0
+  <link href="/ABG/rss-feed.xml" type="application/rss+xml" rel="alternate" title="Ahead of the Board Game | The fun of getting into board games"/>
+  //-->
+
+
+  <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Roboto|Source+Code+Pro">
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.6.3/css/font-awesome.min.css">
+
+  <script type="text/javascript" async
+    src="https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.5/MathJax.js?config=TeX-MML-AM_CHTML">
+  </script>
+
+  <!-- Google Analytics -->
+  <script>
+  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+  ga('create', '', 'auto');
+  ga('send', 'pageview');
+</script>
+
+
+  <!-- Use Jekyll SEO plugin -->
+  <!-- Begin Jekyll SEO tag v2.6.1 -->
+<title>Push-Your-Luck Games: learning when to stop! | Ahead of the Board Game</title>
+<meta name="generator" content="Jekyll v3.6.3" />
+<meta property="og:title" content="Push-Your-Luck Games: learning when to stop!" />
+<meta name="author" content="4binary1" />
+<meta property="og:locale" content="en" />
+<meta name="description" content="Randomness is a source of uncertainty and uncertainty can result in a spectrum of responses. When this uncertainty is confined within the boundaries of a game it can lead to anxiety but also, and I would object more so, to elation and interest from the player. We could, and will, spend an entire post on the role of randomness in board games but in this one I’d like to focus on one particular way of approaching and implementing randomness in a game: the push-your-luck mechanic." />
+<meta property="og:description" content="Randomness is a source of uncertainty and uncertainty can result in a spectrum of responses. When this uncertainty is confined within the boundaries of a game it can lead to anxiety but also, and I would object more so, to elation and interest from the player. We could, and will, spend an entire post on the role of randomness in board games but in this one I’d like to focus on one particular way of approaching and implementing randomness in a game: the push-your-luck mechanic." />
+<link rel="canonical" href="https://4binary1.github.io/ABG/primer/Push-Your-Luck_games.html" />
+<meta property="og:url" content="https://4binary1.github.io/ABG/primer/Push-Your-Luck_games.html" />
+<meta property="og:site_name" content="Ahead of the Board Game" />
+<meta property="og:image" content="https://4binary1.github.io/ABG/coloretto-header.jpg" />
+<meta property="og:type" content="article" />
+<meta property="article:published_time" content="2021-02-13T00:00:00+00:00" />
+<script type="application/ld+json">
+{"@type":"BlogPosting","dateModified":"2021-02-13T00:00:00+00:00","mainEntityOfPage":{"@type":"WebPage","@id":"https://4binary1.github.io/ABG/primer/Push-Your-Luck_games.html"},"image":"https://4binary1.github.io/ABG/coloretto-header.jpg","url":"https://4binary1.github.io/ABG/primer/Push-Your-Luck_games.html","author":{"@type":"Person","name":"4binary1"},"headline":"Push-Your-Luck Games: learning when to stop!","description":"Randomness is a source of uncertainty and uncertainty can result in a spectrum of responses. When this uncertainty is confined within the boundaries of a game it can lead to anxiety but also, and I would object more so, to elation and interest from the player. We could, and will, spend an entire post on the role of randomness in board games but in this one I’d like to focus on one particular way of approaching and implementing randomness in a game: the push-your-luck mechanic.","datePublished":"2021-02-13T00:00:00+00:00","@context":"https://schema.org"}</script>
+<!-- End Jekyll SEO tag -->
+
+
+  <!-- Social Media Share -->
+  <meta property="og:image" content="https://4binary1.github.io/ABG/assets/img/logo_circle_small.png"/>
+
+</head>
+
+
+<body>
+
+<div class="container">
+  <header class="site-header">
+  <div class="dropdown">
+    <input type="checkbox" class="dropbtn" id="dropbtn"></input>
+    <label class="dropbtn-icon" for="dropbtn"><i class="fa fa-bars" aria-hidden="true"></i></label>
+    <div class="dropdown-content">
+      
+        
+          <a href="/ABG/pages/primer.html" class="menu-link">Primer</a>
+        
+      
+        
+          <a href="/ABG/pages/reviews.html" class="menu-link">Reviews</a>
+        
+      
+        
+          <a href="/ABG/pages/about.html" class="menu-link">About</a>
+        
+      
+
+    <a href="/ABG/"><img src="/ABG/assets/img/uk-flag.png"
+      class="menu-link"></img></a>
+    <a href="/ABG/it"><img src="/ABG/assets/img/italy-flag.png"
+      class="menu-link"></img></a>
+    </div>
+  </div>
+  <h3 class="site-title">
+    
+      <a href="/ABG/">Ahead of the Board Game</a>
+      <a href="/ABG/"><img src="/ABG/assets/img/logo_black.png" class="logo"></a>
+    
+  </h3>
+  <nav class="menu-list">
+    
+      
+        <a href="/ABG/pages/primer.html" class="menu-link">Primer</a>
+      
+    
+      
+        <a href="/ABG/pages/reviews.html" class="menu-link">Reviews</a>
+      
+    
+      
+        <a href="/ABG/pages/about.html" class="menu-link">About</a>
+      
+    
+
+    <a href="/ABG/it"><img src="/ABG/assets/img/italy-flag.png"
+        class="menu-link"></img></a>
+    <a href="/ABG/"><img src="/ABG/assets/img/uk-flag.png"
+        class="menu-link"></img></a>
+  </nav>
+</header>
+
+  <div class="posts-wrapper">
+    <div class="page-content">
+  <h1>
+    Push-Your-Luck Games: learning when to stop!
+  </h1>
+
+  <span class="post-date">
+    
+    
+    February
+    13th,
+    2021
+    by
+    
+      4binary1
+    
+  </span>
+
+  
+    <div class="featured-image">
+      <img src="/ABG/assets/img/coloretto-header.jpg">
+    </div>
+  
+
+  <article>
+    <p>Randomness is a source of uncertainty and uncertainty can result in a spectrum of responses. When this uncertainty is confined within the boundaries of a game it can lead to anxiety but also, and I would object more so, to elation and interest from the player. We could, and will, spend an entire post on the role of randomness in board games but in this one I’d like to focus on one particular way of approaching and implementing randomness in a game: the <em>push-your-luck</em> mechanic.</p>
+
+<p>Push-your-luck or <em>press-your-luck</em> is an expression used to describe the risk of losing what you already achieved in order to obtain a better result. Based on <a href="https://boardgamegeek.com/boardgamemechanic/2661/push-your-luck">BGG’s definition</a>, in push-your-luck games “players must decide between settling for existing gains, or risking them all for further rewards”.<br />
+Many gambling games rely on this mechanic: <em>Blackjack</em> for instance relies on the single decision from the players to stop or keep going, each time risking more and more. Even TV games use this and one in particular is worth mentioning.</p>
+
+<p><em>“Press Your Luck”</em> was an American TV game show running in the 80’s which is still remembered today because of the episode where a contestant, Michael Larson, completely broke the game. In the show, players had to answer trivia questions in order to get the chance to play on a board containing a set of prizes that flashed randomly. By pressing a button the flashing would stop and the contestant would add the content of the selectd square to their winning. In a future article we will also discuss how poorly random the randomness we usually deal with is, but this is a splendid example of it: Larson figured out that the flashing had a complex but repetitive pattern and was able to amass a huge amount of winnings in what seemed to be cheating.</p>
+
+<p>Even though it doesn’t have a lot to do with board games, I find this story really fascinating as it highlights how for a push your luck game to work, it must be balanced so that the players can’t only rely on strategy or knowledge but have to add a bit of gut feeling. <a href="https://ultimateclassicrock.com/michael-larson-press-your-luck/">This fun article</a> covers the “Press Your Luck” scandal in depth.</p>
+
+<p>Coming back to board and card games, I mentioned gambling games as often using this mechanic, sometimes exclusively. These games are very popular, successful and often very addictive so the mechaninc could certainly be deemed very fertile for board game designs but that’s not as easy as it seems. One of the most important components of gambling is its relying on real assets, tipically money. The prospect of using a form of entertainment such as games or sport to make a profit is extremely attractive and a lot of gambling games break removing this component. A game like <em>Poker</em> is much less entertaining when playing for nothing, while even introducing a very small prize gives it meaning.</p>
+
+<p>So making a board game that relies on the push-your-luck mechanic without relying on real assets is definitely a nice design challenge and in the next section I’d like to highlights some games that, in my opinion, achieve that very well.</p>
+
+<figure class="featured-image">
+    <img src="/ABG/assets/img/biblios.jpg" alt="Biblios, Steve Finn" />
+    <figcaption><i>Biblios, Steve Finn</i></figcaption>
+</figure>
+
+<h3 id="pure-push-your-luck-games">Pure push-your-luck games</h3>
+
+<p><em><a href="https://boardgamegeek.com/boardgame/41/cant-stop">Can’t Stop</a></em> is the oldest game I’ll mention in this post. Designed by Sid Sackson and published for the first time in 1980, this game sees players rolling dice to advance their pawns on tracks associated to the numbers you can obtain with two dice (i.e. from 2 to 12). The higher the chance for a given result, the longer the track is (e.g. the 7 track is longer than the 4 track) and the players can keep rolling as long as they want. However, if they find themselves in a position where no pawn can be advances, they bust out and lose all progress made that turn. If they stop they can instead “save” their progress and start from a better position next round. This game is a classic that gets all players around the table shouting for whoever is playing to stop or to bust out. A great implementation for <em>Can’t Stop</em> is available for free on <em><a href="https://en.boardgamearena.com/gamepanel?game=cantstop">Board Game Arena</a></em>.</p>
+
+<p><em><a href="https://boardgamegeek.com/boardgame/265256/push">PUSH</a></em> was designed by the game design studio called Prospero Hall which in recent years has delivered some truly well designed games. <em>PUSH</em> is no different and represents a simple and clean implementation of the push-your-luck mechanic. In the game, players draw cards and sort them in up to three piles following a simple rule: colors and numbers can’t repeat in a pile. It’s up to them to decide wether to stop and collect the best pile or keep drawing to collect an higher score. If they are too greedy they might have to bust out and roll a die which will cause them to lose everything they’ve collected of a given colour. This game layers the mechanic in a pretty interesting way: you can be greedy with your draws and still get away with a lucky roll of the die.</p>
+
+<p><em><a href="https://boardgamegeek.com/boardgame/169654/deep-sea-adventure">Deep Sea Adventure</a></em> from Jun Sasaki and Goro Sasaki belongs to a collection of games published in japan by Oink Games that fit in a very small box. In the game, players are deep sea divers trying to collect treasure from the depths of the ocean. Each turn they can decide to swim deeper to collect richer treasure or come back up to the submarine. In the latter case they get to keep the treasure they collected while if they keep going they risk running out of air and losing everything they got. This is another simple and very fun implementation of the mechanic and one that fits in a super small package.</p>
+
+<figure class="featured-image">
+    <img src="/ABG/assets/img/coloretto.jpg" alt="Coloretto, Michael Schacht" />
+    <figcaption><i>Coloretto, Michael Schacht</i></figcaption>
+</figure>
+
+<h3 id="blurring-the-lines">Blurring the lines</h3>
+
+<p>While the push-your-luck mechanic can stand on its own to make a fairly interesting game, the idea is often included in more complicated rule sets to add an element of risk and variety. This is the case for the following games which adopt the mechanic without making it the centerpiece.</p>
+
+<p><em><a href="https://boardgamegeek.com/boardgame/5782/coloretto">Coloretto</a></em>, from designer Michael Schacht, is definitely the closest to pure push-your-luck in this short list. This is one of those small box treasures that everyone should have in their collection. The game mixes the mechanic with set collection in an addicting experience. Here players draw cards from a deck and divide them in heaps (similar to what happens in <em>PUSH</em>). Alternatively they can collect one of the heaps to add colored chameleons to their collection. They have to be careful though, as only three colors will score them points at the end, while all additional colors will cost them points instead.</p>
+
+<p><em><a href="https://boardgamegeek.com/boardgame/244521/quacks-quedlinburg">The Quacks of Quedlinburg</a></em> is one of the great games from a designer I’ve come to love recently: Wolfgang Warsch. Here players participate in a competition where they are asked to prepare the best potion. By drawing chits from a bag they will move along a track that will score them points and let them earn coins they can spend to improve their bag. The mix of push-your-luck and bag building is exquisite and moves extremely fast thanks to simultaneous turns.</p>
+
+<p><em><a href="https://boardgamegeek.com/boardgame/34219/biblios">Biblios</a></em> was designed by Steve Finn and is a very peculiar game. The medieval theme of abbots might push people away but the game packs super juicy decisions in two simple phases. In the first phase you will acquire cards while at the same time leaving some for your opponents. This is where the push-your-luck comes into play. The second round players will then auction the rest of the deck with the goal of collecting the most cards for one or more of the 5 available colors. <em>Biblios</em> is a game that always surprises people when they see what tough choices a small brown box can put them in front of.</p>
+
+<figure class="featured-image">
+    <img src="/ABG/assets/img/quacks.jpg" alt="Quacks of Quedlinburg, Wolfgang Warsch" />
+    <figcaption><i>Quacks of Quedlinburg, Wolfgang Warsch</i></figcaption>
+</figure>
+
+<h3 id="the-fun-in-push-your-luck-games">The fun in push-your-luck games</h3>
+
+<p>Chances are, pun intended, that you have played and enjoyed a push-your-luck game already. Wether it was a gambling game to be played with the family over the holidays, or a board game that challenges you to “roll one more time”. If that’s the case then you already experiences what makes such mechanic fun to play. And in the unlikely case you never have: I urge you to try.</p>
+
+<p>The rush of pushing for one more round and the satisfaction of getting a better result because you dared make the whole experience adventurous, regardless of the theme. Moreover, boardgames have, in my opinion, an edge over classic gambling games when it comes to loss. While winning money or something concrete feels definitely better than winning bragging rights over your friends, losing a real asset is much worse than losing a game. Indeed, the concept of <a href="https://en.wikipedia.org/wiki/Loss_aversion"><em>loss aversion</em></a> suggests that we fear losing a given amount of something much more than we enjoy gaining the same amount.</p>
+
+<p>In this sense, board games that use push-your-luck allow players to experience the positive  feeling of making a “right” call and even encourage them to be “pushier” than they normally would as the stakes are lower. So next time you can, take the chance on a push-your-luck game, you might get an unexpected favorable outcome.</p>
+
+  </article>
+
+  <div class="post-share">
+    <div class="post-date">Feel free to share!</div>
+    <div class="sharing-icons">
+      <a href="https://twitter.com/intent/tweet?text=Push-Your-Luck Games: learning when to stop!&amp;url=4binary1.github.io/ABG/primer/Push-Your-Luck_games.html" target="_blank"><i class="fa fa-twitter" aria-hidden="true"></i></a>
+      <a href="https://www.facebook.com/sharer/sharer.php?u=4binary1.github.io/ABG/primer/Push-Your-Luck_games.html&amp;title=Push-Your-Luck Games: learning when to stop!" target="_blank"><i class="fa fa-facebook" aria-hidden="true"></i></a>
+    </div>
+  </div>
+
+  <div class="related">
+    <h2>You may also enjoy...</h2>
+    
+    <ul class="related-posts">
+      
+        
+          
+          
+        
+          
+            <li>
+              <h3>
+                <a href="/ABG/primer/Party-Games.html">
+                  <div class="related-thumbnail">
+                    
+                      <img src="/ABG/assets/img/dixit.jpg">
+                    
+                  </div>
+                  <div class="related-title">
+                    Party Games: strength in numbers!
+                  </div>
+                  <!--<small>December 12, 2020</small>-->
+                </a>
+              </h3>
+            </li>
+            
+          
+        
+      
+    </ul>
+  </div>
+
+  
+
+</div>
+
+  </div>
+  <footer class="footer">
+  
+    <a href="https://instagram.com/4binary1" class="menu-link" target="_blank"><i class="fa fa-instagram" aria-hidden="true"></i></a>
+  
+  <div class="post-date"><a href="/ABG/">Ahead of the Board Game <!-- | The fun of getting into board games-->  by 4binary1 </a></div>
+</footer>
+
+</div>
+
+</body>
+</html>

@@ -7,6 +7,21 @@
 		<atom:link href="/ABG/rss-feed.xml" rel="self" type="application/rss+xml" />
 		
 			<item>
+				<title>Giochi Push-Your-Luck: imparare a fermarsi!</title>
+				
+					<dc:creator>4binary1</dc:creator>
+				
+				
+					<description>&lt;p&gt;L’ aleatorietà (dal latino &lt;em&gt;alea&lt;/em&gt;) è una fonte di incertezza e l’incertezza può tradursi in uno spettro di risposte. Quando questa incertezza è limitata entro i confini di un gioco può portare all’ansia ma anche, e oserei dire di più, all’euforia e all’interesse del giocatore. Potremmo, e lo faremo, spendere un intero articolo sul ruolo della casualità nei giochi da tavolo, ma in questo vorrei concentrarmi su un modo particolare di affrontarla e implementarla in un gioco: la meccanica &lt;em&gt;push-your-luck&lt;/em&gt;.&lt;/p&gt;
+
+</description>
+				
+				<pubDate>Sat, 13 Feb 2021 00:00:00 +0000</pubDate>
+				<link>/primer/Push-Your-Luck_games.html</link>
+				<guid isPermaLink="true">/primer/Push-Your-Luck_games.html</guid>
+			</item>
+		
+			<item>
 				<title>Party Games: l'unione fa la forza!</title>
 				
 					<dc:creator>4binary1</dc:creator>
@@ -16,7 +31,7 @@
 
 </description>
 				
-				<pubDate>Sat, 12 Dec 2020 00:00:00 +0100</pubDate>
+				<pubDate>Sat, 12 Dec 2020 00:00:00 +0000</pubDate>
 				<link>/primer/Party-Games.html</link>
 				<guid isPermaLink="true">/primer/Party-Games.html</guid>
 			</item>
@@ -31,7 +46,7 @@
 
 </description>
 				
-				<pubDate>Sun, 18 Oct 2020 00:00:00 +0200</pubDate>
+				<pubDate>Sun, 18 Oct 2020 00:00:00 +0100</pubDate>
 				<link>/review/Point-Salad.html</link>
 				<guid isPermaLink="true">/review/Point-Salad.html</guid>
 			</item>
@@ -46,7 +61,7 @@
 
 </description>
 				
-				<pubDate>Sat, 03 Oct 2020 00:00:00 +0200</pubDate>
+				<pubDate>Sat, 03 Oct 2020 00:00:00 +0100</pubDate>
 				<link>/primer/Game-Vocabulary.html</link>
 				<guid isPermaLink="true">/primer/Game-Vocabulary.html</guid>
 			</item>
@@ -61,7 +76,7 @@
 
 </description>
 				
-				<pubDate>Sat, 26 Sep 2020 00:00:00 +0200</pubDate>
+				<pubDate>Sat, 26 Sep 2020 00:00:00 +0100</pubDate>
 				<link>/primer/Board-Game-Geek.html</link>
 				<guid isPermaLink="true">/primer/Board-Game-Geek.html</guid>
 			</item>
@@ -76,7 +91,7 @@
 
 </description>
 				
-				<pubDate>Wed, 23 Sep 2020 00:00:00 +0200</pubDate>
+				<pubDate>Wed, 23 Sep 2020 00:00:00 +0100</pubDate>
 				<link>/primer/Welcome-to-ABG.html</link>
 				<guid isPermaLink="true">/primer/Welcome-to-ABG.html</guid>
 			</item>
